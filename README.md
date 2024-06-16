@@ -80,6 +80,13 @@ A book collection list of Computer Science, especially on Computer Systems
 1. *Effective Modern C++*----2015 ([pdf](./coding/c_cpp/EMCPP-15.pdf))
 2. *Modern C++ Tutorial*----2nd Edition---2020 ([pdf](./coding/c_cpp/MCPPT_2-20.pdf)) ([cn_pdf](./coding/c_cpp/MCPPT_2_CN-20.pdf))
 
+### Concurrency
+
+1. *Concurrency Primer*----2024 ([pdf](./coding/concurrency/concurrency_primer-24.pdf))
+
+### Software Design
+1. *Learning UML 2.0*----2006 ([pdf](./coding/software_design/learning_UML-06.pdf))
+
 ## White Paper
 
 1. *数据密集型超算发展白皮书*----2023 ([pdf](./white_paper/SJMJXCSFZBPS-23.pdf))
