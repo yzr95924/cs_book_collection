@@ -85,7 +85,10 @@ A book collection list of Computer Science, especially on Computer Systems
 1. *Concurrency Primer*----2024 ([pdf](./coding/concurrency/concurrency_primer-24.pdf))
 
 ### Software Design
+1. *Patterns of Enterprise Application Architecture*----2003 ([pdf](./coding/software_design/patterns_of_enterprise_application_architecture-06.pdf))
 1. *Learning UML 2.0*----2006 ([pdf](./coding/software_design/learning_UML-06.pdf))
+1. *Software Architecture Patterns*----2015 ([pdf](./coding/software_design/software_architecture_patterns-15.pdf))
+1. *The Software Architect Elevator*----2020 ([pdf](./coding/software_design/the_software_architect_elevator-20.pdf))
 
 ## White Paper
 
