@@ -82,8 +82,9 @@ A book collection list of Computer Science, especially on Computer Systems
 
 ### Concurrency
 
-1. *Concurrency Primer*----2024 ([pdf](./coding/concurrency/concurrency_primer-24.pdf))
-2. *Is Parallel Programming Hard, And, If So, What Can You Do About It?*----2023 ([pdf](./coding/concurrency/is_parallel_programming_hard-23.pdf))
+1. *Futexes are Tricky*----2011 ([pdf](./coding/concurrency/futexes_are_tricky-11.pdf))
+2. *Is Parallel Programming Hard, and, If so, What Can You Do About It?*----2023 ([pdf](./coding/concurrency/is_parallel_programming_hard-23.pdf))
+3. *Concurrency Primer*----2024 ([pdf](./coding/concurrency/concurrency_primer-24.pdf))
 
 ### Software Design
 1. *Patterns of Enterprise Application Architecture*----2003 ([pdf](./coding/software_design/patterns_of_enterprise_application_architecture-06.pdf))
