@@ -13,9 +13,10 @@ A book collection list of Computer Science, especially on Computer Systems
 
 ### Storage
 1. *Information Storage and Management: Storing, Managing, and Protecting Digital Information*----EMC----2009 ([pdf](./computer_systems/storage/information_storage_and_management-09.pdf))
-1. *Storage Systems: Organization, Performance, Coding, Reliability, and Their Data Processing*----2022 ([pdf](./computer_systems/storage/storage_systems_organization_performance_coding_reliability-22.pdf))
-1. *The Lustre Storage Architecture*----2005 ([pdf](./computer_systems/storage/the_lustre_storage_architecture-05.pdf))
-1. *Learning Ceph*----2015 ([pdf](./computer_systems/storage/learning_ceph-15.pdf))
+2. *Storage Systems: Organization, Performance, Coding, Reliability, and Their Data Processing*----2022 ([pdf](./computer_systems/storage/storage_systems_organization_performance_coding_reliability-22.pdf))
+3. *The Lustre Storage Architecture*----2005 ([pdf](./computer_systems/storage/the_lustre_storage_architecture-05.pdf))
+4. *Learning Ceph*----2015 ([pdf](./computer_systems/storage/learning_ceph-15.pdf))
+5. *Data Storage Architectures and Technologies*----2024 ([pdf](./computer_systems/storage/data_storage_arch_and_tech-24.pdf))
 
 ### Networking
 
