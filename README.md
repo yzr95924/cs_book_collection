@@ -8,9 +8,9 @@ A book collection list of Computer Science, especially on Computer Systems
 ### Architecture
 1. *What Every Programmer Should Know About Memory*----2007 ([pdf](./computer_systems/arch/what_every_programmer_should_know_about_memory-07.pdf))
 2. *Memory Systems: Cache, DRAM, Disk*----2008 ([pdf](./computer_systems/arch/memory_systems-08.pdf))
-3. *A Primer on Memory Consistency and Cache Coherence*----2nd Edition----2020 ([pdf](./computer_systems/arch/a_primer_on_memory_consistency_and_cache_coherence_2-12.pdf))
-
-
+3. *Multithreading Architecture*----2013 ([pdf](./computer_systems/arch/multithreading_architecture-13.pdf))
+4. *A Primer on Memory Consistency and Cache Coherence*----2nd Edition----2020 ([pdf](./computer_systems/arch/a_primer_on_memory_consistency_and_cache_coherence_2-12.pdf))
+5. *Shared-Memory Synchronization*----2nd Edition----2024 ([pdf](./computer_systems/arch/shared_memory_synchronization-2-24.pdf))
 ### Storage
 1. *Information Storage and Management: Storing, Managing, and Protecting Digital Information*----EMC----2009 ([pdf](./computer_systems/storage/information_storage_and_management-09.pdf))
 2. *Storage Systems: Organization, Performance, Coding, Reliability, and Their Data Processing*----2022 ([pdf](./computer_systems/storage/storage_systems_organization_performance_coding_reliability-22.pdf))
@@ -21,7 +21,7 @@ A book collection list of Computer Science, especially on Computer Systems
 ### Networking
 
 1. *TCP/IP Illustrated: The Protocols, Volume 1*----2nd Edition----2012 ([pdf](./computer_systems/networking/tcp_ip_illustred_volume1_the_protocols_2-12.pdf))
-2. *TCP/IP Illustrated: The Implementation, Volume 2*----1995 ([pdf](./computer_systems/networking/tcp_ip_illustred_volume2_the_implementation-95.pdf)) 
+2. *TCP/IP Illustrated: The Implementation, Volume 2*----1995 ([pdf](./computer_systems/networking/tcp_ip_illustred_volume2_the_implementation-95.pdf))
 3. *Computer Networks: A Systems Approach*----5th Edition----2012 ([pdf](./computer_systems/networking/computer_networks_a_system_approach_5-12.pdf))
 4. *Computer Networking: A Top-Down Approach*---- 6th Edition----2013 ([pdf](./computer_systems/networking/computer_networking_a_top_down_approach_6-13.pdf))
 
@@ -54,6 +54,7 @@ A book collection list of Computer Science, especially on Computer Systems
 ### Distributed Systems
 
 1. *Distributed Systems: Concepts and Design*----5th Edition----2012 ([pdf](./computer_systems/distributed/distributed_systems_concept_and_design_5-12.pdf))
+2. *Quorum Systems With Applications to Storage and Consensus*----2012 ([pdf](./computer_systems/distributed/quorum_systems-12.pdf))
 
 ### Security & Reliability
 
@@ -89,15 +90,13 @@ A book collection list of Computer Science, especially on Computer Systems
 
 ### Software Design
 1. *Patterns of Enterprise Application Architecture*----2003 ([pdf](./coding/software_design/patterns_of_enterprise_application_architecture-06.pdf))
-1. *Learning UML 2.0*----2006 ([pdf](./coding/software_design/learning_UML-06.pdf))
-1. *Software Architecture Patterns*----2015 ([pdf](./coding/software_design/software_architecture_patterns-15.pdf))
-1. *The Software Architect Elevator*----2020 ([pdf](./coding/software_design/the_software_architect_elevator-20.pdf))
+2. *Learning UML 2.0*----2006 ([pdf](./coding/software_design/learning_UML-06.pdf))
+3. *Software Architecture Patterns*----2015 ([pdf](./coding/software_design/software_architecture_patterns-15.pdf))
+4. *The Software Architect Elevator*----2020 ([pdf](./coding/software_design/the_software_architect_elevator-20.pdf))
 
 ## White Paper
 
 1. *数据密集型超算发展白皮书*----2023 ([pdf](./white_paper/SJMJXCSFZBPS-23.pdf))
-
-
 
 ## Research Skill
 
