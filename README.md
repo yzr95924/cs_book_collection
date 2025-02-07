@@ -8,9 +8,10 @@ A book collection list of Computer Science, especially on Computer Systems
 ### Architecture
 1. *What Every Programmer Should Know About Memory*----2007 ([pdf](./computer_systems/arch/what_every_programmer_should_know_about_memory-07.pdf))
 2. *Memory Systems: Cache, DRAM, Disk*----2008 ([pdf](./computer_systems/arch/memory_systems-08.pdf))
-3. *Multithreading Architecture*----2013 ([pdf](./computer_systems/arch/multithreading_architecture-13.pdf))
-4. *A Primer on Memory Consistency and Cache Coherence*----2nd Edition----2020 ([pdf](./computer_systems/arch/a_primer_on_memory_consistency_and_cache_coherence_2-12.pdf))
-5. *Shared-Memory Synchronization*----2nd Edition----2024 ([pdf](./computer_systems/arch/shared_memory_synchronization-2-24.pdf))
+3. *Computer Architecture: A Quantitative Approach*----5th Edition----2012 ([pdf](./computer_systems/arch/computer_architecture_a_quantitative_approach_5-12.pdf))
+4. *Multithreading Architecture*----2013 ([pdf](./computer_systems/arch/multithreading_architecture-13.pdf))
+5. *A Primer on Memory Consistency and Cache Coherence*----2nd Edition----2020 ([pdf](./computer_systems/arch/a_primer_on_memory_consistency_and_cache_coherence_2-12.pdf))
+6. *Shared-Memory Synchronization*----2nd Edition----2024 ([pdf](./computer_systems/arch/shared_memory_synchronization_2-24.pdf))
 ### Storage
 1. *Information Storage and Management: Storing, Managing, and Protecting Digital Information*----EMC----2009 ([pdf](./computer_systems/storage/information_storage_and_management-09.pdf))
 2. *Storage Systems: Organization, Performance, Coding, Reliability, and Their Data Processing*----2022 ([pdf](./computer_systems/storage/storage_systems_organization_performance_coding_reliability-22.pdf))
@@ -104,3 +105,8 @@ A book collection list of Computer Science, especially on Computer Systems
 2. *Writing Reviews for Systems Conference*----2007 ([pdf](./research_skill/reviews_sys-07.pdf))
 3. *Writing for Computer Science*----3rd Edition----1997 ([pdf](./research_skill/writing_for_computer_science_3-97.pdf))
 4. *Writing Technical Articles*----2023 ([pdf](./research_skill/writing_technical_articles-23.pdf)) ([link](https://www.cs.columbia.edu/~hgs/etc/writing-style.html))
+
+## Link
+
+1. *Synthesis Lectures on Computer Architecture*----([link](https://www.springer.com/series/16916))
+2. *Synthesis Lectures on Distributed Computing Theory*----([link](https://www.springer.com/series/16964/books))
