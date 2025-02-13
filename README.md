@@ -73,6 +73,7 @@ A book collection list of Computer Science, especially on Computer Systems
 
 1. *Code Complete*----2 Edition----2004 ([pdf](./coding/style/code_complete_2-04.pdf))
 2. *The Art of Readable Code*----2012 ([pdf](./coding/style/the_art_of_readable_code-12.pdf))
+3. *Refactoring: Improving the Design of Existing Code*----2nd Edition----2018 ([pdf](./coding/style/refactoring_improving_the_design_of_existing_code_2-18.pdf))
 
 ### Programming Concept
 
@@ -97,7 +98,8 @@ A book collection list of Computer Science, especially on Computer Systems
 
 ## White Paper
 
-1. *数据密集型超算发展白皮书*----2023 ([pdf](./white_paper/SJMJXCSFZBPS-23.pdf))
+1. *专用数据处理器（DPU）技术白皮书*----2021 ([pdf](./white_paper/专用数据处理器（DPU）技术白皮书-21.pdf))
+1. *数据密集型超算发展白皮书*----2023 ([pdf](./white_paper/数据密集型超算发展白皮书-23.pdf))
 
 ## Research Skill
 
